@@ -1,5 +1,6 @@
-Feature: Logins
+Feature: Holi
 
+    Feature Desjjcription
     Scenario: New user sign up 
 
         Given I navigate to url
