@@ -1,7 +1,7 @@
-Feature: Login
+Feature: Logins
 
-Scenario: Login user with correct email and password
+    Scenario: New user sign up 
 
-Given I navigate to url
-When I enter login credentials
-Then I should be logged in
+        Given I navigate to url
+        When I create my new user 
+    

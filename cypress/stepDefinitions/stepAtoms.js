@@ -2,10 +2,8 @@
 
 const Variables = {
     URL: {
-        URL1: 'https://automationexercise.com/',
-        URL2: '',
+        URL1: 'https://automationexercise.com/'
     }
 }
 
-
-export {Variables}
+export { Variables }
