@@ -1,0 +1,23 @@
+{
+  "name": "cucumber-test-cypress-v10",
+  "version": "1.0.0",
+  "description": "Test con cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GianninaGit/CucumberAutomationPractice.git"
+  },
+  "author": "GianninaGit",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.5.1"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^19.1.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "esbuild": "^0.19.5"
+  }
+}
